@@ -1,4 +1,6 @@
 # This module provides support for simple graphical games.
+# This module is made by UofA and found on their coursera course and CMPUT 174
+# Go to Youtube channel Mr.Merchant for a video on how to properly use and implement this module
 
 from pygame import init, quit, Color, Surface, KEYUP, K_SPACE, K_RETURN, K_z, K_LSHIFT, K_RSHIFT, K_CAPSLOCK, K_BACKSPACE
 from pygame.display import set_caption, set_mode, update
