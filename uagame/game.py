@@ -1,3 +1,6 @@
+#n This game was made by Ayaan Merchant, using the uagame script #
+# Full tutorial on YouTube Channel Mr.Merchant on how to make this game and use uagame #
+
 from uagame import Window
 from time import sleep
 from random import randint
@@ -101,3 +104,6 @@ def play(window, width, height):
                            
 
 main()
+
+#n This game was made by Ayaan Merchant, using the uagame script #
+# Full tutorial on YouTube Channel Mr.Merchant on how to make this game and use uagame #
